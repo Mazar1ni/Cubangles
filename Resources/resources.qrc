@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>downloadIndicator.gif</file>
+        <file>black_box.jpg</file>
+        <file>red_box.jpg</file>
+    </qresource>
+</RCC>
